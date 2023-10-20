@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gokulkrishna95
-- 👀 I’m interested in Automobile Engineerng Reasearch and Devolopment
+- 👀 I’m interested in Automobile Engineering Reasearch and Devolopment
 - 🌱 I’m currently learning  python,sql,java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
